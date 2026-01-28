@@ -2,7 +2,9 @@ Business Objective :
 
 This dashboard is perfect for tracking Revenue, Expense, Profit, and Overall Financial Performance in a single view.
 
-I have designed this dashboard with clean visuals, KPIs, and interactive charts that help you analyze business performance in Excel quickly and effectively.
+I have designed  a comprehensive financial dashboard to track Revenue, Expenses, Profit, and overall financial performance—all in a single, easy-to-understand view.
+
+This dashboard features clean visuals, key KPIs, and interactive charts, enabling quick and effective financial analysis using Excel.
 
 📊 This Dashboard Includes:
 
