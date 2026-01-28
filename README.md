@@ -22,6 +22,8 @@ Excel
 
 
 Financial Reporting & Analysis Dashboard
+<img width="1786" height="683" alt="image" src="https://github.com/user-attachments/assets/f7c76430-b6d0-4eeb-b6e4-87d9a274fa64" />
+
 
 
 
