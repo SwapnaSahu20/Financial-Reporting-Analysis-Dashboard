@@ -1,4 +1,4 @@
-Business Objective :
+Overview :
 
 This dashboard is perfect for tracking Revenue, Expense, Profit, and Overall Financial Performance in a single view.
 
@@ -20,8 +20,9 @@ This dashboard features clean visuals, key KPIs, and interactive charts, enablin
 
 Tool Used :
 
-Excel 
+Microsoft Excel
 
+This project demonstrates my ability to transform raw financial data into actionable insights through effective reporting and visualization.
 
 Financial Reporting & Analysis Dashboard
 <img width="1786" height="683" alt="image" src="https://github.com/user-attachments/assets/f7c76430-b6d0-4eeb-b6e4-87d9a274fa64" />
