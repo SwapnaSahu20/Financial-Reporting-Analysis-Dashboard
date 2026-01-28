@@ -9,28 +9,26 @@ This dashboard features clean visuals, key KPIs, and interactive charts, enablin
 Approach using STAR Method:
 
 Situation
+
 The business lacked a consolidated view of financial performance, making it difficult for stakeholders to track revenue, expenses, profit trends, and department-wise performance efficiently.
 
 Task
+
 My responsibility was to design an interactive financial dashboard that provides a clear overview of financial performance and enables stakeholders to analyze trends, cost drivers, and profitability efficiently.
 
 Action
+
 Designed an end-to-end Financial Reporting & Analysis Dashboard in Excel using Pivot Tables, Pivot Charts, slicers, and KPIs.
 Built KPIs for Total Revenue, Total Expense, Profit & Loss, Max Revenue, and Max Expense.
-Created interactive visuals:
+
+Created interactive visuals
 
 Expense by Category (Rent, Utilities, Office Supplies)
-
 Revenue by Category (Product Sales, Subscription, Licensing)
-
 Revenue vs Expense by Department
-
 Monthly Profit Trend
-
 Implemented department-wise Revenue vs Expense comparison to identify cost-heavy and high-performing departments.
-
 Implemented slicers for Year, Month, Quarter, Department, and Payment Method to enable dynamic filtering.
-
 Ensured clean layout, consistent color themes, and business-friendly labeling for non-technical users.
 
 Result
